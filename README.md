@@ -1,2 +1,2 @@
 # Crisi
-Um site direcionado a Cristo, onde você pode publicar seus versículos diários e aonde pode debater sobre diferentes visões 
+Um site direcionado a Cristo, onde você pode publicar seus versículos diários e aonde pode debater sobre diferentes visões (AINDA EM DESENVOLVIMENTO)
